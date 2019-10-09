@@ -11,6 +11,8 @@
 		-Decrease spaces per level of height
 		-Increase colons per level of height
 - Loop in order to make sure center neck portion of hourglass is directly in the middle using spaces based on constant
+
+-NOTES -- Used integer "counter" to make numerical relation more obvious and easily changeable
 */
 
 public class Hourglass {
@@ -33,11 +35,14 @@ public class Hourglass {
 		}
 		System.out.println("|");
 	}
-	public static void centerNeck () {
-		int counter = SIZE + 1;
+	public static void centerNeck () { //creates the "neck" portion of the hourglass. 
+		int counter = SIZE + 1; // spaces are always size of half hourglass plus 1
 		for (int i = 1; i <= counter; i++) {
 			System.out.print(" ");
 		}
 		System.out.println("||");
+	}
+	public static void topHalf () { //creates top half of hourglass body
+		
 	}
 }
