@@ -1,4 +1,5 @@
 /*
+ * -Outline-
 - Declare Constant that will control width and height of hourglass -- dependant on height:
 	-Width increases by 2 every increase in 2 height -- directly correlating
 - Write Method for top and bottom of hourglass
