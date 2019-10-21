@@ -1,0 +1,13 @@
+Total:  27/25
+
+10/10 - Correct Output (must compile and run)
+3/3 - Proper Use of Static Methods
+3/3 - Proper Use of for loops
+3/3 - Pseudocode
+2/2 - Comments
+2/2 - Consistent Layout and Style following Style Guidelines
+2/2 - Proper Use of at least one Class Constant
+
+2/2 Extra Credit - Hourglass can be resized by changing only one Class Constant.
+
+Excellent work!
